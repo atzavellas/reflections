@@ -8,11 +8,14 @@ It shows what is to be added to the next commit, it's the future state of the re
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+git status shows the files in the staging area so you can see what is commited
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+When you want to try sth without messing with the normal behaviour of the project.
 
 How do the diagrams help you visualize the branch structure?
+They create a graph and they show each branch and how it relates to others.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
